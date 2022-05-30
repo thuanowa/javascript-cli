@@ -5,8 +5,6 @@ let M = parseFloat(prompt("Enter your height (m): "));
 
 let BMI = Math.round(KG / M ** 2);
 
-console.log(BMI);
-
 if (0 <= BMI < 15) console.log("Your heath is Very severely underweight");
 else if (15 <= BMI < 16) console.log("Your heath is Severely underweight");
 else if (16 <= BMI < 18.5) console.log("Your heath is Underweight");
