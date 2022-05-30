@@ -1,1 +1,3 @@
-Use `deno` to run scripts.
+```js
+deno run --allow-run ???.js
+```
