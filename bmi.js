@@ -1,3 +1,5 @@
+#!/usr/bin/deno run
+
 console.log("Count your BMI");
 
 const KG = parseFloat(prompt("Enter your weight (kg): "));
