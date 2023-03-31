@@ -1,0 +1,13 @@
+{
+  "name": "javascript-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "bmi": "deno run ./bmi.js",
+    "dir_list_all": "deno run --allow-run ./dir_list_all.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
